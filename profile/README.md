@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://discord.gg/WYUR4hqdwy" target="_BLANK">
+  <a href="https://discord.gg/HNZbUJa6Jy" target="_BLANK">
     <img src="/profile/ZandoriaBanner.png" alt="Logo" width="512" height="200">
   </a>
 
