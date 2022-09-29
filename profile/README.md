@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://discord.gg/WYUR4hqdwy" target="_BLANK">
-    <img src="https://avatars.githubusercontent.com/u/114646751?s=200&v=4" alt="Logo" width="200" height="200">
+    <img src="/profile/ZandoriaBanner.png" alt="Logo" width="512" height="200">
   </a>
 
   <h3 align="center">Zandoria Minecraft Server</h3>
